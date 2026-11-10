@@ -132,3 +132,6 @@ These insights can support evidence-based planning, improve institutional accoun
 **Analytical Components:**
 - Data cleaning and preparation
 - Pivot Tables
+- Power querys
+- Dax Measures
+- Visualization and validation
