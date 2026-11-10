@@ -1,3 +1,15 @@
+# CodeAlpha Power BI Internship
+# This Project analyzes Educataional Performance and Resources Allocation trends and key operational insights.
+
+# Objectives
+# Analyze logistics performance
+# identify operational trends
+# Measure key performance indicators
+# provide actionable insights
+
+# Author: Stella Kabari Solomon
+# Tools Used: Power BI Desktop, Microsoft Excel
+
 # Educational-Performance-and-Resources-Allocation-Analysis
 Transforming educational data into actionable insights for better academic performance, smarter resource allocation and informed decision making
 
