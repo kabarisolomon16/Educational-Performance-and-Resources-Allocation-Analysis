@@ -1,7 +1,7 @@
 # Educational Performance and Resources Allocation Analyss <br>
 
 ## CodeAlpha Power BI <br> Internship
-<h3> This Project analyzes # Educational Performance and Resources Allocation Analyss operations data patterns, trends and key operational insights<h3>
+<h3> This Project analyzes Educational Performance and Resources Allocation Analyss operations data patterns, trends and key operational insights<h3>
 
 ## Objectives
 <h3> Analyze logistics performance <br>
