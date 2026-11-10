@@ -1,5 +1,5 @@
-## CodeAlpha Power BI Internship<br>
-## This Project analyzes Educataional Performance and Resources Allocation trends and key operational insights<br>
+# CodeAlpha Power BI Internship
+### This Project analyzes Educational Performance and Resources Allocation trends and key operational insights<br>
 
 ### Author: Stella Kabari Solomon <br> Role: Data Analyst <br> Tools Used: Power BI Desktop, Microsoft Excel <br> 
 
