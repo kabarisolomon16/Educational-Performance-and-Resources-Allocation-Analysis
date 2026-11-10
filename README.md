@@ -75,21 +75,19 @@ The primary objectives of this project are to:
 7. Evaluate the effectiveness of student support programmes, including lunch programmes, counselling, and learning support.
 8. Provide actionable insights to support educational planning, resource allocation, and institutional improvement.
 
----
 
 ##  Key Analytical Areas
 
-| Analytical Area | Description |
-| Academic Performance | Evaluates average scores, grades, and examination outcomes. |
-| Departmental Analysis | Compares academic performance across departments. |
-| Student Welfare | Identifies students requiring additional assistance. |
-| Attendance Analysis | Examines attendance patterns and their relationship with academic outcomes. |
-| Financial Accessibility | Monitors fee payment status and outstanding balances. |
-| Learning Resources | Evaluates access to internet connectivity and personal devices. |
-| Support Programmes | Assesses participation in lunch, counselling, and learning support programmes. |
-| Resource Allocation | Identifies resource gaps and opportunities for improved distribution. |
+1. Analytical Area and Description 
+2. Academic Performance: Evaluates average scores, grades and examination outcomes.
+3. Departmental Analysis: Compares academic performance across departments.
+4. Student Welfare: Identifies students requiring additional assistance.
+5. Attendance Analysis: Examines attendance patterns and their relationship with academic outcomes.
+6. Financial Accessibility: Monitors fee payment status and outstanding balances.
+7. Learning Resources: Evaluates access to internet connectivity and personal devices.
+8. Support Programmes: Assesses participation in lunch, counselling, and learning support programmes.
+9. Resource Allocation : Identifies resource gaps and opportunities for improved distribution.
 
----
 
 ##  Interactive Dashboard Capabilities
 
